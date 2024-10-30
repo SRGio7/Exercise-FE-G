@@ -6,8 +6,19 @@ function App() {
   return(
     <div>
       <Header />
+      <div>
+
+      </div>
+
       <Home />
+      <div>
+        
+      </div>
+      
       <Footer />
+      <div>
+        
+      </div>
     </div>
   );
 };
