@@ -1,5 +1,17 @@
+import Generations from "../child_2/Generations"; 
+import Logo from "../child_2/Logo";
+
 const Header = () => {
-    return <h1>Header</h1>;
-}
+    return (
+        <div>
+            <h1>Header</h1>
+            <Generations />
+            <Logo />
+        </div>
+
+    );
+};
+
+
 
 export default Header;
