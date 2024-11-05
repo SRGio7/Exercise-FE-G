@@ -9,6 +9,6 @@ const Home = () => {
         <Card_info/>
     </div>
     );
-}
+};
 
 export default Home;
